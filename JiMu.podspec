@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name                = "JiMu"
-s.version             = "1.0.0"
+s.version             = "1.0.0.2"
 s.summary             = 'mob.com组建SDK依赖库'
 s.license             = 'Copyright © 2012-2017 mob.com'
 s.author              = { "Jinghuang Liu" => "liujinghuang@icloud.com" }
